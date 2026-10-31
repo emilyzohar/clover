@@ -134,3 +134,5 @@ Profile documents: Add PDFs, Word, Excel, TXT, CSV, RTF or ODT files (40 MB each
 Memory navigation: use the on-image previous/next buttons or Left/Right arrow keys. Navigation follows the current album date filter and skips note-only entries. Video controls retain their normal arrow-key seeking when the video itself has focus. Heading accents are now warm brown.
 
 Edit/remove: In Memories, open the ••• menu on a thumbnail and choose Edit or Remove. The viewer stays media-only. Removing a memory also removes it from the home collage. Profile documents have Edit and Remove buttons. Removal asks for confirmation.
+
+Preparation guides: open Puppy-proof every room or Gather puppy supplies from the before-arrival schedule. Both guides remain available in Profile → Home setup. Supplies have saved checkboxes. Completed task titles now consistently show a strike-through, including clickable guide titles. Tap the completion circle to undo an accidental completion.
