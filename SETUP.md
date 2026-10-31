@@ -123,3 +123,5 @@ Validation: JavaScript syntax and adaptive-planner checks passed. Browser testin
 
 
 Latest album update: Memories uses a compact, date-grouped photo grid, with three columns on phones. Tap any thumbnail to view the full photo or video, optional title, event date, notes and added date, or edit/delete it. Undated memories group by their added date when available. Grid previews crop to squares; opened media preserves its full proportions. Home collage photos remain borderless with restored soft shadows. Physical phone testing has not been performed.
+
+Media viewer update: opening photos/videos now shows only the media and a translucent title/date overlay at its top. Missing optional fields are hidden. Notes and added-date text do not appear over media. Note-only entries open their editor.
