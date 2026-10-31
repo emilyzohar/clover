@@ -33,3 +33,5 @@ body[data-page=today]>aside{padding-bottom:0}body[data-page=today] nav a{font-si
 .task.done .task-title-button{text-decoration:line-through}.task.done .task-title-button:hover{text-decoration:line-through}.prep-guide-section{padding:14px 0;border-top:1px solid var(--line)}.prep-guide-section h3{color:var(--burgundy);font:500 22px Fredoka}.supply-item{display:flex;align-items:flex-start;gap:12px;margin:16px 0;cursor:pointer}.supply-item input{flex:0 0 16px;margin-top:4px}.supply-item small{display:block;font-size:12px;color:var(--muted);line-height:1.65}.supply-item strong{font-size:13px}.supply-item:has(input:checked) strong{text-decoration:line-through;color:var(--muted)}
 
 .ui-icon{display:inline-block;vertical-align:-3px;flex-shrink:0}.complete-dot .ui-icon{width:14px;height:14px;vertical-align:middle}#account .ui-icon{margin-right:5px}
+
+.skill-readiness{font-size:11px;line-height:1.65;color:var(--muted)}.plan-explainer{font-size:11px;color:var(--muted);max-width:760px;line-height:1.8;margin:0 0 24px}
