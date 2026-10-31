@@ -1,0 +1,458 @@
+[
+  {
+    "id": "name",
+    "title": "Name & check-in",
+    "week": 8,
+    "category": "Foundations",
+    "steps": "Say \u201cClover\u201d once in a quiet room.|When she looks toward you, say \u201cyes\u201d and give a tiny treat.|Repeat five times, then finish. Do not repeat her name if distracted; move closer.",
+    "goal": "Looks toward you in 4 of 5 easy repetitions."
+  },
+  {
+    "id": "potty",
+    "title": "Toilet routine",
+    "week": 8,
+    "category": "Home",
+    "steps": "Take her to your chosen spot after waking, eating, drinking and play, and frequently while awake.|Stand quietly; reward immediately after she finishes outside.|If nothing happens, return to close supervision and try again soon. Clean accidents with enzymatic cleaner; never punish.",
+    "goal": "Track patterns rather than expecting a fixed bladder capacity."
+  },
+  {
+    "id": "mat",
+    "title": "A little place to settle",
+    "week": 8,
+    "category": "Home",
+    "steps": "Put a portable mat down in a quiet room.|Mark and reward looking at or stepping onto it. Place treats on the mat.|Reward relaxed sitting or lying down; release her after a few seconds. Build duration before adding distractions.",
+    "goal": "Relaxed on the mat for 30 seconds; add only a few seconds at a time."
+  },
+  {
+    "id": "crate",
+    "title": "Crate training & safe pen",
+    "week": 8,
+    "category": "Home",
+    "steps": "Place her open crate within or attached to the downstairs pen, secured so its door cannot swing shut. Reward voluntary entry and let her leave freely.|Offer part of a meal or a safe chew inside while the crate remains open; the pen is the usual downstairs boundary.|Separately, when she is comfortable, try a one-second crate-door closure while beside her, reward and reopen. Build gradually for occasional travel or care needs. This is not her overnight sleeping arrangement.",
+    "goal": "Voluntarily rests in the open crate; any brief closure remains comfortable and separate from bedtime."
+  },
+  {
+    "id": "handling",
+    "title": "Brush & body handling",
+    "week": 8,
+    "category": "Care",
+    "steps": "Show the brush and reward a voluntary approach.|Touch a shoulder briefly, then reward. Build toward one gentle brush stroke.|Practice separate tiny sessions with paws, ears and chin. Stop if she withdraws; do not restrain through fear.",
+    "goal": "Loose body and voluntary re-engagement after each touch."
+  },
+  {
+    "id": "senior",
+    "title": "Peace with her big sister",
+    "week": 8,
+    "category": "Home",
+    "steps": "Give your older dog a puppy-free resting area behind a gate. Feed separately and put prized chews away.|Let both dogs notice each other at a comfortable distance; reward calm attention separately.|Keep supervised meetings brief. Interrupt puppy pestering by redirecting Clover; separate before either dog becomes tense.",
+    "goal": "Both can disengage and rest. Never leave them together unsupervised."
+  },
+  {
+    "id": "sound",
+    "title": "City sounds at a distance",
+    "week": 8,
+    "category": "Outings",
+    "steps": "Begin indoors with very quiet traffic or elevator sounds.|Pair a few seconds with treats or play.|Stop while she is comfortable. Increase volume or proximity on another day, never both together.",
+    "goal": "Loose body, taking food, able to look away. Move away if she freezes or avoids."
+  },
+  {
+    "id": "alone",
+    "title": "Tiny alone-time practice",
+    "week": 8,
+    "category": "Home",
+    "steps": "After toileting, set up a safe pen with a suitable supervised chew.|Step away for one second and return calmly before worry.|Build in seconds, varying easy repetitions. If distressed, reduce the separation; arrange company for longer absences.",
+    "goal": "Comfortable repeated short separations, not endurance."
+  },
+  {
+    "id": "recall",
+    "title": "Come to me",
+    "week": 9,
+    "category": "Foundations",
+    "steps": "In a quiet enclosed room, crouch and say \u201cClover, come\u201d once.|Reward generously when she reaches you; gently touch her harness, then release to play.|Try a few steps farther away. Outdoors use a secure long line and harness; never test near traffic.",
+    "goal": "Quick response in easy settings before adding distractions."
+  },
+  {
+    "id": "lead",
+    "title": "Loose lead beginnings",
+    "week": 9,
+    "category": "Outings",
+    "steps": "Clip a light lead to a comfortable harness indoors.|Reward her beside you, take one step, and reward again.|Build to a few steps. If the lead tightens, pause and invite her back; do not jerk the lead.",
+    "goal": "Five relaxed steps, then a sniff break."
+  },
+  {
+    "id": "car",
+    "title": "Happy car moments",
+    "week": 9,
+    "category": "Outings",
+    "steps": "With the car parked, introduce a suitable crash-tested restraint or secured crate.|Reward calm exploration; end before discomfort.|On later days try engine on, then a very short trip with another person observing. Discuss motion sickness with your vet.",
+    "goal": "Relaxed on short trips before attempting a commute."
+  },
+  {
+    "id": "drop",
+    "title": "Trade / drop",
+    "week": 10,
+    "category": "Foundations",
+    "steps": "Offer a low-value toy, then show a treat near her nose.|When she releases the toy, say \u201cyes\u201d, give the treat and return the toy.|Add \u201cdrop\u201d just before offering the trade once the pattern is familiar. Never chase or pry.",
+    "goal": "Willing trades with easy items. Seek help for guarding."
+  },
+  {
+    "id": "greet",
+    "title": "Polite greetings",
+    "week": 10,
+    "category": "Manners",
+    "steps": "Ask a helper to stand sideways and ignore jumping.|Reward Clover while four paws stay on the floor.|Let her choose a brief greeting, then call her back for a treat. Skip greetings when tired or worried.",
+    "goal": "Can greet briefly and return attention to you."
+  },
+  {
+    "id": "lift",
+    "title": "Elevators & doorways",
+    "week": 11,
+    "category": "Office",
+    "steps": "Reward calm observation of an elevator from a distance.|On another repetition approach the open door, retreat and reward.|When comfortable, take one quiet ride. Keep the lead short enough for safety without tension; prevent door entrapment.",
+    "goal": "Comfortable entering, riding and exiting with you."
+  },
+  {
+    "id": "office",
+    "title": "Scarborough office rehearsal",
+    "week": 12,
+    "category": "Office",
+    "steps": "Confirm dogs are permitted, identify a quiet spot and a safe toilet route; ask your vet about local exposure risk.|Visit at a quiet time for 5\u201310 minutes with mat, water, treats and cleanup supplies.|Reward settling, take a toilet break and leave early. Increase duration only after several comfortable visits.",
+    "goal": "Relaxed short visits before a half-day; arrange backup care."
+  },
+  {
+    "id": "cowork",
+    "title": "Downtown coworking rehearsal",
+    "week": 14,
+    "category": "Office",
+    "steps": "Confirm building rules and choose an off-peak visit after easy office and travel practice.|Start outside at a comfortable distance from crowds; reward calm observation.|Try a brief indoor mat session near an exit. Leave if she cannot settle, refuses food or looks worried.",
+    "goal": "Comfort around people and noise. Readiness matters more than week number."
+  },
+  {
+    "id": "stay",
+    "title": "Wait for a moment",
+    "week": 12,
+    "category": "Foundations",
+    "steps": "Ask for a comfortable sit or stand.|Pause one second, mark, reward and release with \u201cokay\u201d.|Increase duration a little before adding distance. Use gates and a lead for real doorway safety.",
+    "goal": "Three easy seconds with relaxed posture."
+  },
+  {
+    "id": "leave",
+    "title": "Leave it",
+    "week": 12,
+    "category": "Foundations",
+    "steps": "Hold a treat in a closed hand; let her investigate without opening it.|When she moves away, mark and reward from your other hand.|Add the cue as she disengages. Practice with safe objects; prevent access to hazards rather than testing her.",
+    "goal": "Can disengage from an easy object and look to you."
+  },
+  {
+    "id": "sit",
+    "title": "Sit",
+    "week": 8,
+    "category": "Manners",
+    "steps": "Hold a tiny treat at nose height and move it slowly upward and back a little.|As her bottom touches the floor, mark \u201cyes\u201d and reward. Do not push her hips.|After several easy repetitions, say \u201csit\u201d just before the hand motion, then gradually reduce the lure.",
+    "goal": "Offers a sit on one cue in a quiet room."
+  },
+  {
+    "id": "down",
+    "title": "Lie down",
+    "week": 8,
+    "category": "Manners",
+    "steps": "From a comfortable sit or stand, move a treat slowly toward the floor between her paws.|Slide it slightly forward; mark and reward when elbows touch the floor. Never pull her legs.|Add \u201cdown\u201d once the movement is predictable; reward on the floor and release after a second.",
+    "goal": "Comfortably lowers herself without physical pressure."
+  },
+  {
+    "id": "stand",
+    "title": "Stand for care",
+    "week": 9,
+    "category": "Care",
+    "steps": "From a sit, move a treat forward at nose height until she stands.|Mark, reward and release without holding her in position.|Add \u201cstand\u201d, then build one second at a time for grooming and vet checks.",
+    "goal": "Stands willingly for a few seconds."
+  },
+  {
+    "id": "touch",
+    "title": "Hand target",
+    "week": 8,
+    "category": "Foundations",
+    "steps": "Offer an open hand a few centimetres from her nose.|Mark and reward any voluntary nose touch using your other hand.|Add \u201ctouch\u201d and vary the hand position slightly. Use it to guide her without grabbing.",
+    "goal": "Touches your hand in four of five easy attempts."
+  },
+  {
+    "id": "marker",
+    "title": "Yes means a reward",
+    "week": 8,
+    "category": "Foundations",
+    "steps": "Say \u201cyes\u201d calmly, then immediately give a tiny treat.|Repeat five times while she is relaxed; no requested behaviour is needed yet.|Use the marker at the exact moment of a behaviour you want, followed by a reward.",
+    "goal": "Looks expectantly for a reward after the marker."
+  },
+  {
+    "id": "release",
+    "title": "All done / release cue",
+    "week": 9,
+    "category": "Manners",
+    "steps": "Reward a brief sit or mat pause.|Say \u201cokay\u201d once, then invite her to move with you.|Keep the pause easy so she learns the word ends the exercise. Do not rely on it for traffic safety.",
+    "goal": "Moves freely after the release cue."
+  },
+  {
+    "id": "bite",
+    "title": "Puppy biting & redirection",
+    "week": 8,
+    "category": "Home",
+    "steps": "Keep an appropriate toy within reach during play.|If teeth contact skin, pause calmly and offer the toy. Reward choosing it.|If she keeps biting, end the interaction and use a gate for a brief calm reset; check toilet and sleep needs. Do not hold her muzzle.",
+    "goal": "Can switch to a toy; play ends before overtired biting escalates."
+  },
+  {
+    "id": "chew",
+    "title": "Choose the right chew",
+    "week": 8,
+    "category": "Home",
+    "steps": "Remove access to shoes, cables and unsafe objects before play.|Offer a size-appropriate chew and supervise for damage or swallowing.|Praise choosing her chew; trade for a treat if you need to remove it. Ask your vet about suitable chew hardness.",
+    "goal": "Chooses safe available items in a managed space."
+  },
+  {
+    "id": "nap",
+    "title": "Learning to rest",
+    "week": 8,
+    "category": "Home",
+    "steps": "Offer a toilet trip and a quiet, comfortable resting area.|Dim activity around her; reward calm briefly, then let her sleep undisturbed.|Keep the space close enough for reassurance. If restless, check discomfort, toilet needs or overstimulation rather than forcing sleep.",
+    "goal": "Can relax with support between short active periods."
+  },
+  {
+    "id": "collar",
+    "title": "Collar & harness comfort",
+    "week": 8,
+    "category": "Care",
+    "steps": "Let her look at and sniff the harness; reward curiosity.|Hold the opening so she can voluntarily put her nose through for a treat, then remove it.|Fasten briefly when comfortable, reward, and gradually build wearing time. Check fit and avoid unsupervised snag risks.",
+    "goal": "Comfortable voluntarily approaching and wearing fitted equipment."
+  },
+  {
+    "id": "teeth",
+    "title": "Toothbrushing foundations",
+    "week": 9,
+    "category": "Care",
+    "steps": "Ask your vet about a puppy toothbrush and dog-safe toothpaste; never use human toothpaste.|Reward a chin touch, then a one-second lip lift.|Let her taste the toothpaste, then introduce a gentle single brush stroke. Build slowly and stop when she withdraws.",
+    "goal": "Accepts a brief gentle tooth touch without restraint."
+  },
+  {
+    "id": "nails",
+    "title": "Nail care confidence",
+    "week": 9,
+    "category": "Care",
+    "steps": "Show the nail tool at a distance and reward calm interest.|Practice a brief voluntary paw touch separately; release immediately.|Introduce tool approach, then a touch without clipping. Get a demonstration from your vet or groomer before trimming; do not clip through struggle.",
+    "goal": "Offers a paw comfortably with the tool nearby."
+  },
+  {
+    "id": "ears",
+    "title": "Ear checks",
+    "week": 9,
+    "category": "Care",
+    "steps": "Reward her for resting near you with a relaxed head.|Lift one ear flap for a second, reward and release.|Gradually look at each ear. Do not insert swabs or use cleaner unless your vet recommends it; seek care for pain, odour or discharge.",
+    "goal": "Allows a brief visual ear check."
+  },
+  {
+    "id": "bath",
+    "title": "Happy bath preparation",
+    "week": 10,
+    "category": "Care",
+    "steps": "Introduce the dry bath area with a non-slip mat and treats.|Practice entering and leaving, then hearing water from a distance.|When comfortable, try a little lukewarm water on paws; reward and stop. Use dog-appropriate products and avoid eyes and ears.",
+    "goal": "Relaxed in the bath area before a full wash."
+  },
+  {
+    "id": "dryer",
+    "title": "Grooming sounds",
+    "week": 10,
+    "category": "Care",
+    "steps": "Start with the dryer switched off and reward looking at it.|Introduce its sound far away or at a very low level, paired with rewards.|Build proximity slowly on different days. Avoid hot air and stop at fear; ask the groomer for short familiarization visits.",
+    "goal": "Can remain relaxed around quiet grooming sounds."
+  },
+  {
+    "id": "chin",
+    "title": "Chin rest & consent",
+    "week": 10,
+    "category": "Care",
+    "steps": "Offer your open palm under her chin and reward a voluntary brief touch.|Gradually reward one second of resting her chin in your hand.|Introduce a tiny shoulder touch while her chin rests. If she lifts her head, stop the touch and let her choose to resume.",
+    "goal": "Voluntarily returns to the chin rest after a pause."
+  },
+  {
+    "id": "vet",
+    "title": "Vet visit rehearsal",
+    "week": 9,
+    "category": "Care",
+    "steps": "Practice stepping onto a non-slip low platform at home; reward and step off.|Practice brief touches to shoulder, paws and lips separately, stopping when she moves away.|Ask the clinic whether a short happy visit is possible. Bring familiar rewards and request gentle handling.",
+    "goal": "Comfortable with easy handling and a brief clinic visit."
+  },
+  {
+    "id": "door",
+    "title": "Doorway manners",
+    "week": 10,
+    "category": "Safety",
+    "steps": "Use a harness and lead or a secure gate as backup.|With the door closed, reward standing calmly; open it a crack and reward again.|Close gently if she rushes without trapping her. Release through together only when safe; never test beside traffic.",
+    "goal": "Can pause at a slightly open door with backup protection."
+  },
+  {
+    "id": "uturn",
+    "title": "Let\u2019s go / emergency U-turn",
+    "week": 11,
+    "category": "Safety",
+    "steps": "In a quiet room, say \u201cthis way\u201d and turn with a cheerful voice.|Reward when she follows you for two or three steps.|Practice outdoors with a harness at easy distances from distractions. Turn away early before she becomes overwhelmed.",
+    "goal": "Turns with you readily in easy settings."
+  },
+  {
+    "id": "find",
+    "title": "Find it",
+    "week": 8,
+    "category": "Enrichment",
+    "steps": "Place one piece of food on a clear non-slip floor while she watches.|Say \u201cfind it\u201d and let her sniff it out.|Build to a few visible pieces on a safe surface. Keep food games separate from the older dog and account for food portions.",
+    "goal": "Enjoys a short calm sniffing game."
+  },
+  {
+    "id": "play",
+    "title": "Gentle tug & play rules",
+    "week": 10,
+    "category": "Enrichment",
+    "steps": "Offer a soft long toy and let her choose to grab it.|Move it gently side to side, keeping paws on the floor and avoiding neck jerks.|Pause, trade for a treat and restart as a reward. Stop before she gets overtired or teeth reach hands.",
+    "goal": "Can pause and restart enjoyable play."
+  },
+  {
+    "id": "fetch",
+    "title": "Bring a toy back",
+    "week": 12,
+    "category": "Enrichment",
+    "steps": "Roll a toy a short distance on a safe floor.|Praise picking it up and move away invitingly so she follows.|Trade for a treat when she reaches you, then roll again. Do not chase her to recover the toy.",
+    "goal": "Returns a toy a few steps willingly."
+  },
+  {
+    "id": "sniffwalk",
+    "title": "A puppy-led sniff walk",
+    "week": 10,
+    "category": "Enrichment",
+    "steps": "Choose a vet-approved low-risk location and a comfortable harness.|Let her pause, look and sniff at her own pace; use a loose lead.|Keep the outing brief and end before fatigue. Avoid forced running, repetitive jumping and distance targets.",
+    "goal": "Returns comfortable rather than exhausted."
+  },
+  {
+    "id": "watch",
+    "title": "Calm observation",
+    "week": 9,
+    "category": "Socialization",
+    "steps": "Choose one mild new sight at a distance where she stays loose-bodied.|Reward noticing it and then turning back to you; she does not need to approach.|Leave after a few good moments. Increase distance if she hides, freezes or cannot disengage.",
+    "goal": "Can notice something new and recover easily."
+  },
+  {
+    "id": "people",
+    "title": "Different people, no pressure",
+    "week": 9,
+    "category": "Socialization",
+    "steps": "Let Clover observe one calm person at a comfortable distance.|Pair their presence with treats or play; ask them not to reach over her.|Let her choose whether to approach. Reward checking back with you and leave before she tires.",
+    "goal": "Can see a new person without pressure to greet."
+  },
+  {
+    "id": "surfaces",
+    "title": "New surfaces",
+    "week": 9,
+    "category": "Socialization",
+    "steps": "Place a stable, non-slip novel surface next to familiar flooring.|Reward looking at it, then a voluntary paw or step onto it.|Let her retreat at any time. Avoid unstable, hot, sharp or slippery surfaces.",
+    "goal": "Can explore a mild new surface voluntarily."
+  },
+  {
+    "id": "household",
+    "title": "Vacuum & household activity",
+    "week": 9,
+    "category": "Socialization",
+    "steps": "Begin with the appliance switched off at a distance; reward curiosity.|Have a helper turn it on far away for one second while you reward Clover.|Repeat only while relaxed and let her retreat. Do not move the vacuum toward her.",
+    "goal": "Comfortable at an easy distance from brief household noise."
+  },
+  {
+    "id": "dogs",
+    "title": "Seeing dogs calmly",
+    "week": 10,
+    "category": "Socialization",
+    "steps": "Choose a known healthy, gentle dog and ask your vet about safe settings.|Start with parallel observation at a distance; reward calm check-ins.|Keep greetings optional and very brief, then separate. Avoid unknown off-leash dogs and busy dog parks.",
+    "goal": "Can notice another dog and disengage."
+  },
+  {
+    "id": "guard",
+    "title": "Prevent resource worries",
+    "week": 8,
+    "category": "Home",
+    "steps": "Feed both dogs separately and let Clover eat undisturbed.|Occasionally walk past at a comfortable distance and toss an extra tasty treat, then leave.|Trade toys instead of taking them by force. If she freezes, growls or guards, give space and consult a qualified reward-based professional.",
+    "goal": "Human approach predicts something good, without testing or provoking guarding."
+  },
+  {
+    "id": "jump",
+    "title": "Four paws on the floor",
+    "week": 9,
+    "category": "Manners",
+    "steps": "Prepare treats before approaching a calm puppy.|Reward while all four paws are on the floor, before she jumps.|If she jumps, pause attention and reward the next grounded moment. Use a gate for visitors rather than pushing her down.",
+    "goal": "Can receive attention with four paws down."
+  },
+  {
+    "id": "counter",
+    "title": "Kitchen & counter boundaries",
+    "week": 11,
+    "category": "Home",
+    "steps": "Keep counters clear and use gates while food is accessible.|Reward Clover on a nearby mat while you do one easy kitchen action.|Build activity gradually and provide a safe chew away from preparation. Do not leave tempting food as a test.",
+    "goal": "Can settle in a managed spot during brief food preparation."
+  },
+  {
+    "id": "quiet",
+    "title": "Responding to barking",
+    "week": 10,
+    "category": "Home",
+    "steps": "First check toilet, discomfort, fear, boredom or an approaching trigger.|Reduce the trigger or add distance, then reward a quiet check-in or calm alternative.|Practice below the barking threshold next time. Do not shout, startle or use anti-bark devices.",
+    "goal": "Can recover and reorient in an easier environment."
+  },
+  {
+    "id": "restrain",
+    "title": "Comfort with brief support",
+    "week": 10,
+    "category": "Care",
+    "steps": "Reward leaning comfortably against you with freedom to move away.|Place a hand gently on her side for one second, reward and release.|Build only tiny comfortable steps; never pin or restrain through fear. Ask the vet about safe handling for necessary procedures.",
+    "goal": "Accepts a brief supportive touch and chooses to return."
+  },
+  {
+    "id": "alonehome",
+    "title": "Home-alone progression",
+    "week": 12,
+    "category": "Home",
+    "steps": "Start from successful tiny separation practice, after toileting and with a safe resting space.|Briefly leave the room or step outside and return before worry; use a camera if helpful.|Increase in small variable steps only while comfortable. Arrange care for absences beyond her current ability; consult a professional if distress persists.",
+    "goal": "Calm repeated short departures before longer absences."
+  },
+  {
+    "id": "distraction",
+    "title": "Skills with distractions",
+    "week": 16,
+    "category": "Foundations",
+    "steps": "Choose a well-practiced cue in a quiet setting.|Add one mild distraction far away and reward generously for an easy response.|Reduce distance, duration or distraction if she struggles; change only one factor at a time.",
+    "goal": "Can perform an easy familiar cue around a mild distraction."
+  },
+  {
+    "id": "teen",
+    "title": "Adolescent refresher",
+    "week": 24,
+    "category": "Foundations",
+    "steps": "Return to an easy version of a familiar skill in a quiet space.|Reward generously and keep practice brief; use a lead or gates for safety.|Gradually rebuild distractions. Temporary difficulty is a reason to simplify, not punish or demand longer sessions.",
+    "goal": "Reliable easy successes before raising difficulty again."
+  },
+  {
+    "id": "pen",
+    "title": "Relax in the downstairs pen",
+    "week": 8,
+    "category": "Home",
+    "steps": "Set up the pen beside you, with water and an open crate secured safely inside or attached; feed her separately from her sister.|After a toilet trip, reward voluntary entry, scatter part of her measured meal, and let her explore the open crate without shutting it.|Close the pen gate for a second while you remain beside her, reward calm, then reopen. Build short comfortable periods with you nearby; respond to distress by making it easier.",
+    "goal": "Comfortable behind the pen gate with you nearby, able to eat or relax. Duration grows in tiny steps."
+  },
+  {
+    "id": "room",
+    "title": "Settle while I work in my room",
+    "week": 8,
+    "category": "Home",
+    "steps": "Puppy-proof the room: secure cables, shoes, bins, small objects and escape routes. Start after a toilet trip and short play.|Put a comfortable mat or bed beside your desk. Reward calm while you work for a few seconds, then pause for a check-in.|Build brief work blocks with active supervision and toilet breaks. Start with a smaller gated area; if you cannot watch her, switch to her prepared safe space rather than giving unchecked freedom.",
+    "goal": "Can calmly explore or rest in a manageable bedroom area while you can still supervise."
+  },
+  {
+    "id": "bedtime",
+    "title": "Bed-sharing bedtime routine",
+    "week": 8,
+    "category": "Home",
+    "steps": "Before bedtime, prepare a puppy-safe sleeping arrangement with no accessible gaps or fall routes; prevent jumping on or off a high bed. Keep a safe nearby backup bed or pen ready if the shared bed cannot be made safe.|Offer a calm toilet trip immediately before joining your bed, then keep activity low and let her settle close to you.|Expect overnight toilet needs. Respond to waking, sniffing or restlessness with a calm toilet trip, then return to bed. Reward toileting outside; never punish accidents.",
+    "goal": "Settles comfortably with you and receives safe, responsive overnight toilet support; a full dry night is not required."
+  }
+]
