@@ -125,3 +125,10 @@ Validation: JavaScript syntax and adaptive-planner checks passed. Browser testin
 Latest album update: Memories uses a compact, date-grouped photo grid, with three columns on phones. Tap any thumbnail to view the full photo or video, optional title, event date, notes and added date, or edit/delete it. Undated memories group by their added date when available. Grid previews crop to squares; opened media preserves its full proportions. Home collage photos remain borderless with restored soft shadows. Physical phone testing has not been performed.
 
 Media viewer update: opening photos/videos now shows only the media and a translucent title/date overlay at its top. Missing optional fields are hidden. Notes and added-date text do not appear over media. Note-only entries open their editor.
+
+If you still see a beige memory panel with Edit/Delete, replace index.html, app.js and style.css together from this ZIP. Reload with Cmd+Shift+R on Mac (Ctrl+Shift+R on Windows). Keep the same website address/port to retain browser-local memories. This release versions script/style requests to prevent stale asset reuse.
+
+
+Profile documents: Add PDFs, Word, Excel, TXT, CSV, RTF or ODT files (40 MB each), plus optional labels, dates and notes. PDFs have an in-app preview and download fallback; other formats download to open with a suitable app. Documents use the same private account storage and local backup as memories. For an EXISTING Supabase project, run documents-update.sql once in SQL Editor to allow these file types. New projects use the updated supabase.sql. Sync across devices requires signing into the same configured account. Cloud integration has not been tested against a live project.
+
+Memory navigation: use the on-image previous/next buttons or Left/Right arrow keys. Navigation follows the current album date filter and skips note-only entries. Video controls retain their normal arrow-key seeking when the video itself has focus. Heading accents are now warm brown.
